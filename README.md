@@ -27,20 +27,20 @@ https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 
 ![gene_max_min_ave_distributions](https://github.com/user-attachments/assets/041efbb6-7999-439c-b7a4-efdcdc4a7db3)
 
-![percent_zero_expression](https://github.com/user-attachments/assets/65062908-7cec-496b-9134-300295cc6938)
+![percent_zero_expression](https://github.com/user-attachments/assets/3ee46d29-79d5-4b1c-9cf2-c9997b4f35af)
+
 
 ## Results
 
 ### PCA
-
-![pca_explained_variance](https://github.com/user-attachments/assets/f2cb4523-349e-4c8e-aeb1-370f6f90c6bf)
+![pca_explained_variance](https://github.com/user-attachments/assets/9318582b-1748-4ba4-9b94-cd78df4cf8a9)
 
 ### K-means Clustering with PCA Dimensionality Reduction
-![optimal_pca_dims_kmeans](https://github.com/user-attachments/assets/759dab33-d061-4cdf-b82b-6e066cc824cd)
-![confusion_matrix_pca_kmeans_clustering](https://github.com/user-attachments/assets/be3e221e-329a-4fb7-bc27-d152cdb826e8)
+![optimal_pca_dims_kmeans](https://github.com/user-attachments/assets/d8af1023-5ae2-4532-ad92-4a74d1afd879)
+![confusion_matrix_pca_kmeans_clustering](https://github.com/user-attachments/assets/dd3ad3d0-5a69-4fe5-a514-113116f6a468)
 
 ### Hierarchical Clustering 
-![confusion_matrix_agg_clustering](https://github.com/user-attachments/assets/e9f5a23d-3d75-420d-9d03-40980ca72a99)
+![confusion_matrix_agg_clustering](https://github.com/user-attachments/assets/53b8b53d-38cb-4638-b515-659f7707aa5e)
 
 ## References
 National Cancer Institute. (2021, October 11). What is cancer? Cancer.gov. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
