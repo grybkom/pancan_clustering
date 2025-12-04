@@ -1,5 +1,5 @@
 # pancan_clustering
-Clustering models for the classification of five types of cancerous tissues based on RNA sequencing data.
+**Clustering models for the classification of five types of cancerous tissues based on RNA sequencing data.**
 
 ## Introduction
 This project uses clustering algorithms to classify five classes of cancerous tissues based on RNA sequencing (RNA-seq) data. Cancer begins when cell differentiation becomes unregulated and cells begin growing out of control (National Cancer Institute, 2021). This process has well established genomic origins (Weinstein et al., 2013). There are numerous types of cancer and cancer can originate in almost any tissue type (National Cancer Institute, 2021). By analyzing RNA-seq data from different cancer types, The Cancer Genome Atlas Pan-Cancer Analysis Project aims to identify the genomic changes that are associated with cancer to gain a better understanding of cancer’s molecular underpinnings (Weinstein et al., 2013). Labels were added to clustering results from hierarchical and K-means models and results were compared. Hierarchical clustering did very well, achieving an accuracy of over 99%, and outperformed K-means clustering after PCA dimensionality reduction.
