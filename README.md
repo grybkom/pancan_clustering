@@ -39,7 +39,7 @@ https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 ![optimal_pca_dims_kmeans](https://github.com/user-attachments/assets/d8af1023-5ae2-4532-ad92-4a74d1afd879)
 ![confusion_matrix_pca_kmeans_clustering](https://github.com/user-attachments/assets/dd3ad3d0-5a69-4fe5-a514-113116f6a468)
 
-### Hierarchical Clustering 
+### Hierarchical Clustering without PCA 
 ![confusion_matrix_agg_clustering](https://github.com/user-attachments/assets/53b8b53d-38cb-4638-b515-659f7707aa5e)
 
 ## References
