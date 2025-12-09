@@ -39,7 +39,7 @@ https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 
 
 ## Results
-The accuracy of a K-means clustering model after applying PCA dimensionality reduction, and an agglomerative clustering model (hierarchical) without dimensionality reduction were compared. Labels were assigned after clustering through a custom built function to test the accuracy of all possible label permutations, using itertool’s [permutation]( https://docs.python.org/3/library/itertools.html#itertools.permutations) function. 
+The accuracy of a K-means clustering model after applying PCA dimensionality reduction with 100 components, and an agglomerative clustering model (hierarchical) without dimensionality reduction were compared. Labels were assigned after clustering through a custom built function to test the accuracy of all possible label permutations, using itertool’s [permutation]( https://docs.python.org/3/library/itertools.html#itertools.permutations) function. 
 
 ### PCA
 ![pca_explained_variance](https://github.com/user-attachments/assets/9318582b-1748-4ba4-9b94-cd78df4cf8a9)
