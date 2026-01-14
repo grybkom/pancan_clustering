@@ -58,6 +58,9 @@ The accuracy of a K-means clustering model after applying PCA dimensionality red
 - Negative values (blue blocks) indicate lower-than-average expression.
 <img width="1000" height="1200" alt="heatmap_most_varaible_genes_by_cancer_type 1" src="https://github.com/user-attachments/assets/ca6bab6a-aa3e-4966-b8c6-9ac733ef4f57" />
 
+## To DO
+[] Train models on a subset of the data based gene varaibility. 
+
 ## References
 National Cancer Institute. (2021, October 11). What is cancer? Cancer.gov. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
 
