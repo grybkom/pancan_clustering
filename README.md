@@ -52,7 +52,11 @@ The accuracy of a K-means clustering model after applying PCA dimensionality red
 ![confusion_matrix_agg_clustering](https://github.com/user-attachments/assets/53b8b53d-38cb-4638-b515-659f7707aa5e)
 
 ### Clustering Heatmap of 25 Most Variable Genes Grouped by Cancer Type 
-<img width="1000" height="1200" alt="heatmap_most_varaible_genes_by_cancer_type" src="https://github.com/user-attachments/assets/9d63057f-b536-4c91-9e68-e9a3fe82c4c1" />
+ The data was z-score normalized using StandardScaler and gene expression is in standard deviation units: 
+- 0 (white blocks) indicates average expression of that gene across samples.
+- Positive values (red blocks) indicate higher-than-average expression.
+- Negative values (blue blocks) indicate lower-than-average expression.
+<img width="1000" height="1200" alt="heatmap_most_varaible_genes_by_cancer_type 1" src="https://github.com/user-attachments/assets/ca6bab6a-aa3e-4966-b8c6-9ac733ef4f57" />
 
 ## References
 National Cancer Institute. (2021, October 11). What is cancer? Cancer.gov. https://www.cancer.gov/about-cancer/understanding/what-is-cancer
